@@ -1,5 +1,5 @@
 # EscornaSnap
-EscornaSnap! - Escornabot controlado desde Snap! - Proyecto Noise>
+EscornaSnap! - Escornabot controlado desde Snap!-Snap4Arduino - Proyecto Noise>
 
 Esto es una versión preliminar, donde voy a tratar de describir los pasos a seguir. Si encuentras algún fallo, o no lo tienes muy claro, o para resolver cualquier duda, estamos en Twitter: @proyectonoise.
 
