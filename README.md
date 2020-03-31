@@ -1,7 +1,7 @@
 # EscornaSnap
 EscornaSnap! - Escornabot controlado desde Snap! - Proyecto Noise>
 
-Esto es una versión preliminar, donde voy a tratar de describir los pasos a seguir. Si encuentras algún fallo, no lo tienes muy claro, o para resolver cualquier duda, estamos en Twitter: @proyectonoise.
+Esto es una versión preliminar, donde voy a tratar de describir los pasos a seguir. Si encuentras algún fallo, o no lo tienes muy claro, o para resolver cualquier duda, estamos en Twitter: @proyectonoise.
 
 1.- Antes de nada, para controlar Escornabot con EscornaSnap, te aviso que necesitas tener Bluetooth en el Escornabot y en el PC. Podrías conectarte por cable USB pero te va a resultar un tanto engorroso. (Aunque, si el cable USB es largo, para hacer pruebas, sirve).
 
