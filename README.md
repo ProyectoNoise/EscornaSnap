@@ -20,8 +20,9 @@ Para ello, conecta el módulo Bluetooth (Yo uso el HC04, pero supongo que el HC0
 
 7.- Una vez emparejado. Desde Snap4Arduino, en los bloques que aparecen al pulsar la pestaña 'Arduino' ,de color azul claro, pulsa el botón 'Connect Arduino'. Elige el puerto correspondiente (si te salen 2 puertos del módulo Bluetooth, generalmente es el primero). Debería, despues, salir un mensaje indicando que ha conectado correctamente.
 
-8.- Pulsa el botón gris 'otros' y verás los bloques de EscornaSnap! Con ellos puedes manejar Escornabot. Es conveniente que antes de empezar cualquier programa, uses en primer lugar el bloque 'Iniciar EscornaSnap' dónde tendrás que poner los valores de lectura analógica de cada uno de los botones. Si no sabes de qué estoy hablando, imagino que eres nuevo en el mundo Escornabot. Si es así, te aconsejo que visites antes la web de Pablo Rubio (escornafan) https://pablorubma.cc/ donde podrás encontrar toda al información imaginable acerca de Escornabot.
-Creo que no es necesario explicar los bloques, me parece que son suficientemente intuitivos.
+8.- Pulsa el botón gris 'otros' y verás los bloques de EscornaSnap! Con ellos puedes manejar Escornabot. Es conveniente que antes de empezar cualquier programa, uses en primer lugar el bloque 'Iniciar EscornaSnap' dónde tendrás que poner los valores de lectura analógica de cada uno de los botones. Si no sabes de qué estoy hablando, imagino que eres nuevo en el mundo Escornabot. Si es así, te aconsejo que visites antes la web de Pablo Rubio (escornafan) https://pablorubma.cc/ donde podrás encontrar toda la información imaginable acerca de Escornabot.
+
+Respecto a los bloques, creo que no es necesario explicarlos, me parece que son suficientemente intuitivos.
 
 9.- Disfruta de EscornaSnap. ¡A programar!
 
