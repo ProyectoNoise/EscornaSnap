@@ -11,7 +11,7 @@ Snap4Arduino (creado por Bernat Romagosa) es una versión de Snap! para ser usad
 3.- Dentro de Snap4Arduino debes importar los bloques de EscornaSnap, que hay en este repositorio, con extensión .XML
 La forma más sencilla es arrastrar el archivo dentro de Snap4Arduino. 
 
-4.- Debes cargar, desde el entorno Arduino, el Firmata para Escornabot, que puedes encontrar en este repositorio. Para subirlo al Arduino Nano del Escornabot, debes usar el cable USB. (Este firmata es una adaptación para Escornabot, del creado en el Citilab)
+4.- Debes cargar, desde el entorno Arduino, el Firmata para Escornabot, que puedes encontrar en este repositorio. Para subirlo al Arduino Nano del Escornabot, debes usar el cable USB. (Este firmata es una adaptación para Escornabot, del creado en el Citilab). La carpeta steppers debe estar en el mismo directorio que esté la carpeta del Firmata.
 
 5.- Una vez transferido, debes conectar el módulo Bluetooth a Escornabot. Pero antes debes quitar el cable USB, para que no interfiera con el módulo bluetooth. 
 Para ello, conecta el módulo Bluetooth (Yo uso el HC04, pero supongo que el HC06 funcionará también) al Arduino Nano: el pin TX del módulo con el pin RX del Arduino y el pin RX del módulo con el pin TX del Arduino. Los pines de alimentación del módulo irán a alimentación (5 V. y GND). En el Escornabot modelo Audacius irán a las correspondientes conexiones de la protoboard y si no hay  huecos suficientes habrá que hacer un puente a las lineas disponibles de la protoboard para así dsponer de alimentación. En otros modelos de Escornabot ya hay pines para conectar directamente el módulo Bluetooth.
