@@ -6,7 +6,7 @@ Esto es una versión preliminar, donde voy a tratar de describir los pasos a seg
 1.- Antes de nada, para controlar Escornabot con EscornaSnap, te aviso que necesitas tener Bluetooth en el Escornabot y en el PC. Podrías conectarte por cable USB pero te va a resultar un tanto engorroso. (Aunque, si el cable USB es largo, para hacer pruebas, sirve).
 
 2.- Debes descargar e instalar Snap4Arduino en http://snap4arduino.rocks/ Tienes versiones para varios sistemas operativos.
-Snap4Arduino (creado por Bernat Romagosa) es una versión de Snap! para ser usada con Arduino (Snap! es un entorno de programación de bloques, creado por Jens Mönig, parecido a Scratch pero con muchísimas más posibilidades que te permiten usar programación más avanzada).
+Snap4Arduino (creado por Bernat Romagosa) es una versión de Snap! para ser usada con Arduino (Snap! es un entorno de programación de bloques, creado por Jens Mönig, parecido a Scratch pero con muchísimas más posibilidades que te permiten usar programación más avanzada https://snap.berkeley.edu/).
 
 3.- Dentro de Snap4Arduino debes importar los bloques de EscornaSnap, que hay en este repositorio, con extensión .XML
 La forma más sencilla es arrastrar el archivo dentro de Snap4Arduino. 
