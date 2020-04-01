@@ -3,7 +3,7 @@ EscornaSnap! - Escornabot controlado desde Snap!-Snap4Arduino - Proyecto Noise>
 
 Esto es una versión preliminar, donde voy a tratar de describir los pasos a seguir. Si encuentras algún fallo, o no lo tienes muy claro, o para resolver cualquier duda, estamos en Twitter: @proyectonoise.
 
-1.- Antes de nada, para controlar Escornabot con EscornaSnap, te aviso que necesitas tener Bluetooth en el Escornabot y en el PC. Podrías conectarte por cable USB pero te va a resultar un tanto engorroso. (Aunque, si el cable USB es largo, para hacer pruebas, sirve).
+1.- Antes de nada, para controlar Escornabot con EscornaSnap, te aviso que necesitas tener Bluetooth en el Escornabot y en el PC. Podrías conectarte por cable USB pero te va a resultar un tanto engorroso. (Aunque, si el cable USB es largo, para hacer pruebas, también sirve ;) ).
 
 2.- Debes descargar e instalar Snap4Arduino en http://snap4arduino.rocks/ Tienes versiones para varios sistemas operativos.
 Snap4Arduino (creado por Bernat Romagosa) es una versión de Snap! para ser usada con Arduino (Snap! es un entorno de programación de bloques, creado por Jens Mönig, parecido a Scratch pero con muchísimas más posibilidades que te permiten usar programación más avanzada https://snap.berkeley.edu/).
@@ -18,7 +18,7 @@ Para ello, conecta el módulo Bluetooth (Yo uso el HC04, pero supongo que el HC0
 
 6.-  Emparejar el Bluetooth del PC y el módulo.
 
-7.- Una vez emparejado. Desde Snap4Arduino, en los bloques que aparecen al pulsar la pestaña 'Arduino' ,de color azul claro, pulsa el botón 'Connect Arduino'. Elige el puerto correspondiente (si te salen 2 puertos del módulo Bluetooth, generalmente es el primero). Debería, despues, salir un mensaje indicando que ha conectado correctamente.
+7.- Una vez emparejado. Desde Snap4Arduino, en los bloques que aparecen al pulsar la pestaña 'Arduino' (de color azul claro) pulsa el botón 'Connect Arduino'. Elige el puerto correspondiente (si te salen 2 puertos del módulo Bluetooth, generalmente es el primero). Debería, despues, salir un mensaje indicando que ha conectado correctamente.
 
 8.- Pulsa el botón gris 'otros' y verás los bloques de EscornaSnap! Con ellos puedes manejar Escornabot. Es conveniente que antes de empezar cualquier programa, uses en primer lugar el bloque 'Iniciar EscornaSnap' dónde tendrás que poner los valores de lectura analógica de cada uno de los botones. Si no sabes de qué estoy hablando, imagino que eres nuevo en el mundo Escornabot. Si es así, te aconsejo que visites antes la web de Pablo Rubio (escornafan) https://pablorubma.cc/ donde podrás encontrar toda la información imaginable acerca de Escornabot.
 
