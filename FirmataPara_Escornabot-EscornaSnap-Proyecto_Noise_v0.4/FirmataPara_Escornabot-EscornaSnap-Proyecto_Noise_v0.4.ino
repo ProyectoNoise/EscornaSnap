@@ -12,7 +12,7 @@
   Copyright (C) 2010-2011 Paul Stoffregen.  All rights reserved.
   Copyright (C) 2009 Shigeru Kobayashi.  All rights reserved.
   Copyright (C) 2009-2016 Jeff Hoefs.  All rights reserved.
- 
+  Adaptación para Escornabot - EscornaSnap. Proyecto Noise> 2020
 
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
@@ -23,7 +23,7 @@
 
     Last updated by Jeff Hoefs: January 10th, 2016
 
-  Adaptación para Escornabot - EscornaSnap. Proyecto Noise> 2020
+  
 */
 
 #include <Servo.h>
